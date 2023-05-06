@@ -4,11 +4,11 @@
 
 我是猪痞恶霸，目前就读于SYLU，喜欢吃烤肉🍖与柠檬茶🧋 
 
-技术很菜，胆子很小，脾气很倔
-
-## 你可以发现我 🙈
-
-## 使用的技术与工具
+技术很菜，胆子很小，脾气很倔，想且正在付出行动去参与开源社区
+## 你可以发现我🙈
+- 我的笔记站：[猪痞恶霸的笔记站](https://hrbully.github.io/frontend-note/)
+- 我的掘金：[猪痞恶霸的掘金](https://juejin.cn/user/431430802343479)
+## 使用的技术与工具👨‍💻
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
