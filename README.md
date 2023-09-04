@@ -19,6 +19,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/-Vue.js-2c3e50?style=flat-square&logo=vue.js" />
+  <img src="https://img.shields.io/badge/-React.js-2c3e50?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-Node.js-f7df1e?style=flat-square&logo=node.js&logoColor=black" />
 </p>
 
